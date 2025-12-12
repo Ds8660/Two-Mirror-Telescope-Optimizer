@@ -6,6 +6,9 @@ facilitate the optimization process.
 Click this link to read the project brief: [https://docs.google.com/document/d/18Uxm9dsBwh52NpTPq255ri5LoFRa3W_I_2m0pbn_IME/edit?usp=sharing](url)
 
 To run the code, you need to install python
+
 In your terminal, type: pip install numpy plotly dash
+
 To start the sim, type: python telescope_three.py
+
 Then on your browser, visit http://127.0.0.1:8056
