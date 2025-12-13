@@ -12,3 +12,5 @@ In your terminal, type: pip install numpy plotly dash
 To start the sim, type: python telescope_three.py
 
 Then on your browser, visit http://127.0.0.1:8056
+
+To stop the simulation, press CTRL+C in the terminal
